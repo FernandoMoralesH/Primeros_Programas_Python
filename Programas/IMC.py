@@ -1,3 +1,4 @@
+"""Primer Programa: Se realiza Programa para medir el indice de masa muscular (IMC)"""
 print('Programa que mide IMC\n****************************')
 print('Por favor, coloca los datos que se solicitan')
 altura = float(input('Coloca tu altura en m: '))
